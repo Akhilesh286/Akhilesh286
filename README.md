@@ -81,11 +81,3 @@ What started as a hobby turned into my career path — and now, I'm actively see
 > 💡 *I believe in learning by building. Every project I create teaches me something new — not just about code, but about problem-solving, communication, and adaptability.*
 
 ---
-## 📊 GitHub Stats
-
-<p align = "center">
-    <img align = "center" src = "https://streak-stats.demolab.com/?user=Akhilesh286&theme=transparent" /> <br/> <br/>
-    <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=Akhilesh286&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
-    <br/><br/>
-    <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhilesh286&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</p>
